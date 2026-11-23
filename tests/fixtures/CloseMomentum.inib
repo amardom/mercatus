@@ -1,0 +1,8 @@
+[Backtest]
+Symbol=MERCATUS_SYNTH
+Timeframe=H1
+From=2026-01-05
+To=2026-01-07
+
+[Parameters]
+Lookback=1

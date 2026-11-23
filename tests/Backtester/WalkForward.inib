@@ -1,0 +1,10 @@
+[Backtest]
+Symbol=EURUSD
+Timeframe=H1
+From=2025-01-06
+To=2025-03-04
+ExtraCostPerExecutionUSD=0.10
+
+[Parameters]
+Fast=2,4
+Slow=12
